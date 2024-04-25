@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Prata&display=swap");
+
+:root {
+  --var-clr: ;
+  --border-radius: ;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Prata, sans-serif;
+}
